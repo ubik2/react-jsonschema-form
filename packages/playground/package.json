@@ -114,7 +114,7 @@
     "rimraf": "^3.0.2",
     "sass": "^1.57.1",
     "source-map-loader": "^4.0.1",
-    "vite": "^3.2.2"
+    "vite": "^3.2.7"
   },
   "directories": {
     "test": "test"
